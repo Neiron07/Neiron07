@@ -2,11 +2,11 @@
 
 <!--
 **Neiron07/Neiron07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
 [![codewars](https://www.codewars.com/users/Neiron01)](https://www.codewars.com/users/Neiron01)  
 
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on **VVVgamers.com**
 
 - 🌱 I’m currently learning **Backend Engineer**
