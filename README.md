@@ -4,7 +4,7 @@
 **Neiron07/Neiron07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-[![codewars](https://www.codewars.com/users/Neiron01)](https://www.codewars.com/users/Neiron01)  
+[![codewars](https://www.codewars.com/users/Neiron01/badges/small)](https://www.codewars.com/users/Neiron01)  
 
 
 - 🔭 I’m currently working on **VVVgamers.com**
