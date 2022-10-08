@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Backend Engineer**
 
-- 🤔 I’m looking for help with math
+- 🤔 I’m looking for help with work
 
 - 📫 How to reach me: **chesshousetv@gmail.com** 
 
